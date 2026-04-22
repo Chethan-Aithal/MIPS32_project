@@ -54,13 +54,7 @@ This project is designed to be simulated using the **Vivado Design Suite**.
    * The testbench automatically probes internal signals like `PC` and `ALUOut`.
    * Check the **Tcl Console** to see the register values ($R0-$R5) printed at the end of the simulation.
 
-**Tcl Command (Alternative):**
-```tcl
-launch_simulation
-run 300ns
-```
 
----
 
 ### 🤝 Contributing
 Feel free to fork and add:
